@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aziz Ortukov</h1>
 <h3 align="center">A passionate Java backend developer from Tashkent/Uzbekistan</h3>
 
-- 🔭 I’m currently working on [Audio Book backend development](https://github.com/azizortukov/Audio_Book_Backend) and [Solving LeetCode problems](https://github.com/azizortukov/LeetCode)
+- 🔭 I’m currently working on [Gym_CRM](https://github.com/azizortukov/Gym_CRM)
 
 - 👨‍💻 All of my projects are available at [https://t.me/azizortukov](https://t.me/azizortukov)
 
